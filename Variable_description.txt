@@ -1,0 +1,45 @@
+Year - Year 
+county_fips - county FIP code 
+inctot - average annual income of individuals 
+mortamt1 - average amount of mortgage payments 
+avrg_age - Average Age 
+ftotinc - Average Annual Total Family Income 
+foodstmp_1_freq - Percentage of Individuals Who Did Not Receive Foodstamps 
+foodstmp_2_freq - Percentage of individuals who received foodstamps 
+sex_1_freq - Percentage of Males
+sex_2_freq - Percentage of Females 
+marst_1_freq - Percentage of Married Spouse Present 
+marst_2_freq - Percentage of Married Spouse Absent 
+marst_3_freq - Percentage of seperated 
+marst_4_freq - Percentage of divorced 
+marst_5_freq - Percentage of widowed 
+marst_6_freq - Percentage of Never Married 
+race_1_freq - Percentage of white 
+race_2_freq - Percentage of black/african american 
+race_3_freq - Percentage of American Indian or Alaska Native 
+race_4_freq - Percentage of Chinese 
+race_5_freq - Percentage of Japanese
+race_6_freq - Percentage of Other Asian 
+race_7_freq - Percentage of Other Race 
+race_8_freq - Percentage of Two Major Races
+race_9_freq - Percentage - Percentage of Three or More Races 
+ctz_stat_1_freq - Percentage of US Citizen 
+ctz_stat_2_freq - Percentage of Naturalized Citizen
+ctz_stat_3_freq - Percentage of Non US Citizen
+lang_1_freq - Percentage of English is Spoken At Home 
+lang_2_freq - Percentage of Another Language is Spoken At Home 
+educ_attain_1.0_freq - Percentage of High School or Lower Education 
+educ_attain_2.0_freq - Percentage of Some College or Bachelor Degree 
+educ_attain_3.0_freq - Percentage of Masters or Professional Certificate 
+educ_attain_4.0_freq - Percentage of Doctoral Degree 
+empstat_1.0_freq - Percentage of Employed 
+empstat_2.0_freq - Percentage of Unemployed 
+empstat_3.0_freq - Percentage of Not In The Labor Force 
+state_po - State Abbreviations 
+county_name - County Name 
+democrat - Number of Votes for democrats party 
+green - Number of Votes for green Party 
+liberitarian - number of votes for liberitarian party 
+republican - number of votes for republican party 
+other - number of votes for other parties 
+winner - 0 for democrats and 1 for republican
