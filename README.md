@@ -25,7 +25,7 @@ This project analyzes how various social and economic factors affect election ou
 - notebooks/ # Main analysis notebook
 - README.md # Project documentation
 - requirements.txt # Python dependencies
-- .gitignore # Files to exclude from version control
+- variables_requirement.txt # Detailed explanation of variables 
 
 ## Results Summary
 - Identified key economic and social predictors for election outcomes.
