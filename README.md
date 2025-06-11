@@ -8,7 +8,7 @@ This project analyzes how various social and economic factors affect election ou
 
 ## Objective
 - Investigate how economic indicators (e.g., GDP, unemployment) and social indicators (e.g., education, population composition) correlate with U.S. election outcomes.
-- Build predictive models to assess the impact of these variables on voting behavior at county level.
+- Build predictive models to assess the impact of these variables on voting behavior at the county level.
 
 ## Data Sources
 - `county_census_and_election_result.csv` — Census and election data by county
@@ -16,7 +16,7 @@ This project analyzes how various social and economic factors affect election ou
 
 ## Tools & Technologies
 - Python
-- Pandas, NumPy, Scikit-learn
+- Pandas, NumPy, Scipy, Scikit-learn, XGBoost
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
@@ -34,7 +34,7 @@ This project analyzes how various social and economic factors affect election ou
 
 ## Future Work
 - Include more recent data.
-- Add additional predictors (e.g. voter turnout, campaign spending).
+- Add additional predictors (e.g., voter turnout, campaign spending).
 
 ## Contact
 If you have any questions, feel free to contact me at jrgllshnn@gmail.com.
