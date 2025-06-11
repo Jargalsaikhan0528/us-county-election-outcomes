@@ -4,7 +4,9 @@
 **The Impact of Social and Economic Factors on U.S. Election Outcomes at the County Level**
 
 ## Description
-This project analyzes how various social and economic factors affect election outcomes in U.S. counties. The analysis integrates multiple datasets containing demographic, economic, and electoral data. Multiple data science techniques, including data preprocessing, exploratory data analysis, correlation analysis, and machine learning models, are applied.
+This project's aim is to analyze the how socioeconomic factors influence the US's election results in county level. We will analyze various social factors, such as race, education, and marital status, and economic factors, such as GDP, to understand which socioeconomic factors have the most impact on the election results, and possibly building a machine learning model that can predict the election results effectively given our variables in our datasets. Research Question: How do socioeconomic factors influence U.S. election outcomes at the county level?
+
+The datasets used in this project are U.S. Census and Election Results dataset from Kaggle, which is our main dataset, and GDP by County. The US Census and Election Results dataset combines U.S. county-level demographics, economic, and election data from 2000 to 2020. The dataset integrates information from multiple resources: U.S. Census Bureau, the Bureau of Economic Analysis, and MIT Election data. In this project, this dataset is merged with GDP by County dataset to further investigate the election results. As a result, the merged dataset includes socioeconomic variables from 2005 to 2018. You can find the U.S. Census and Election Results dataset in the following link: [Visit Kaggle Dataset](https://www.kaggle.com/datasets/minhbtnguyen/us-census-for-election-predictions-20002020/data)
 
 ## Objective
 - Investigate how economic indicators (e.g., GDP, unemployment) and social indicators (e.g., education, population composition) correlate with U.S. election outcomes.
